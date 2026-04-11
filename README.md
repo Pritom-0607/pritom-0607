@@ -42,7 +42,7 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 ## ⚙️ AI & Full Stack Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c++,django,bash,js,react,nodejs,django,php,mysql,aws,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,bash,js,react,nodejs,django,php,mysql,aws,git,docker" />
 </div>
 
 ---
@@ -63,7 +63,8 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 |----------|-------------|
 | Blood Donation App | Django-based full stack healthcare system |
 | My Portfolio | Modern AI-focused personal website |
-
+| Calculator | Calculator using html,css & Javascript |
+| Counter | Basic html,css & Javascript |
 
 ---
 
