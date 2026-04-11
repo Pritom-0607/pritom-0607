@@ -89,7 +89,7 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 <img src="https://img.shields.io/badge/Twitter-RoyPritom221176-1DA1F2?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href=“mailto:palokroy2006.stars@gmail.com">
+<a href="mailto:palokroy2006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
