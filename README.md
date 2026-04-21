@@ -38,25 +38,31 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 - 💡 Passionate about solving complex real-world problems using AI 
 
 ---
-
-
 ## 📌 Present Status
-<table border="0" style="border-collapse: collapse;">
+
+<table width="100%">
 <tr>
-  <td width="60%" valign="top”>
 
-- Deep analysing network & OSI model & Os development
-- 🛠 Trying to make hacking tools & automation scripts for reconnaissance & exploitation 
-- Learning to AI security & Advanced security mechanisms  
-- Researching Mobile Application Security & Blockchain/Web3 exploitation  
-- Contributing to open-source security projects & bug bounty programs  
+<td width="68%" valign="top">
 
-  </td>
-  <td width="40%" valign="top" align="center">
+• Deep analysing network & OSI model & OS development <br><br>
 
-  <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1229779%2Fb915e799-ad77-4ad5-9477-feb30ef3171d.gif" width="300px" alt="Status GIF" />
+• 🛠️ Trying to make hacking tools & automation scripts for reconnaissance & exploitation <br><br>
 
-  </td>
+• Learning to AI security & Advanced security mechanisms <br><br>
+
+• Researching Mobile Application Security & Blockchain/Web3 exploitation <br><br>
+
+• Contributing to open-source security projects & bug bounty programs
+
+</td>
+
+<td width="32%" align="right" valign="top">
+
+<img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1229779%2Fb915e799-ad77-4ad5-9477-feb30ef3171d.gif" alt="Status GIF" width="300"/>
+
+</td>
+
 </tr>
 </table>
 
