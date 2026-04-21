@@ -41,7 +41,7 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 
 
 ## 📌 Present Status
-<table border="0" style="border-collapse: collapse;">
+<table border="1" style="border-collapse: collapse;">
 <tr>
   <td width="60%" valign="top”>
 
@@ -90,9 +90,11 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 
 ---
 
-
+ <div align="center">
 <details>
+ 
 <summary>💫 More About Me:</summary>
+  
 
 - **Name:** Pritom Roy  
 - **From:** India 🇮🇳  
@@ -107,8 +109,7 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 - Network Security & Threat Intelligence  
 
 </details>
-
----
+</div>
 
 ## 📬 Connect With Me
 
@@ -132,7 +133,6 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 
 </div>
 
----
 
 ## 🎯Cyber  Vision
 
