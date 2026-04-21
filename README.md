@@ -45,10 +45,10 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 <tr>
   <td width="60%" valign="top”>
 
-- Deep analysing network & OSI model & Os development 
-- 🛠 Trying to make hacking tools & automation scripts for reconnaissance & exploitation  
-- Learning to AI security & Advanced security mechanisms   
-- Researching Mobile Application Security & Blockchain/Web3 exploitation    
+- Deep analysing network & OSI model & Os development
+- 🛠 Trying to make hacking tools & automation scripts for reconnaissance & exploitation 
+- Learning to AI security & Advanced security mechanisms  
+- Researching Mobile Application Security & Blockchain/Web3 exploitation  
 - Contributing to open-source security projects & bug bounty programs  
 
   </td>
