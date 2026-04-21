@@ -41,7 +41,7 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 
 
 ## 📌 Present Status
-<table border="1" style="border-collapse: collapse;">
+<table border="0" style="border-collapse: collapse;">
 <tr>
   <td width="60%" valign="top”>
 
