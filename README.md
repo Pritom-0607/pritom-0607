@@ -32,17 +32,40 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 
 ## 🧠 Cyber & Developer Profile
 
-- 🤖  An cyber security student and Full stuck Developer
-- 🌱 Constant student in Python, Ethical hacking in AI , and Cyber security
+- 🤖 An cyber security student and Full stuck Developer
+- 🌱 Constant student in Python, Ethical hacking with AI , and Cyber security
 - 🔭 Building AI-driven attacks, Penitest them in real world & find vulnerability  
 - 💡 Passionate about solving complex real-world problems using AI 
+
+---
+
+
+## 📌 Present Status
+<table border="0" style="border-collapse: collapse;">
+<tr>
+  <td width="60%" valign="top”>
+
+- Deep analysing network & OSI model & Os development 
+- 🛠 Trying to make hacking tools & automation scripts for reconnaissance & exploitation  
+- Learning to AI security & Advanced security mechanisms   
+- Researching Mobile Application Security & Blockchain/Web3 exploitation    
+- Contributing to open-source security projects & bug bounty programs  
+
+  </td>
+  <td width="40%" valign="top" align="center">
+
+  <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1229779%2Fb915e799-ad77-4ad5-9477-feb30ef3171d.gif" width="300px" alt="Status GIF" />
+
+  </td>
+</tr>
+</table>
 
 ---
 
 ## ⚙️ AI & Full Stack Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,bash,js,react,nodejs,django,php,mysql,aws,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,bash,js,react,nodejs,php,mysql,aws,git,docker" />
 </div>
 
 ---
@@ -57,24 +80,33 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 
 
 
-## 💻 Full Stack & Web Projects
+## 💻 Web Projects
 
 | Project | Description |
 |----------|-------------|
-| Blood Donation App | Django-based full stack healthcare system |
 | My Portfolio | Modern AI-focused personal website |
 | Calculator | Calculator using html,css & Javascript |
 | Counter | Basic html,css & Javascript |
 
 ---
 
-## 📚 Currently Learning
 
--Networking & OSI model
--Basic OS Development
--Offensive  & Deffensive Security
-- Advanced Security Mechanism 
-- AI based attack system
+<details>
+<summary>💫 More About Me:</summary>
+
+- **Name:** Pritom Roy  
+- **From:** India 🇮🇳  
+- **Role:** Cybersecurity Specialist | Ethical Hacker | Security Researcher | Forensics Analyst    
+
+**Have to be Specialties:**
+- Web Application Security — OWASP Top 10, API Pentesting 
+- Red Teaming & Social Engineering  
+- Exploit Development & Zero-Day Research  
+- Reverse Engineering & Malware Forensics  
+- Digital Forensics & Incident Response (DFIR)  
+- Network Security & Threat Intelligence  
+
+</details>
 
 ---
 
@@ -104,7 +136,7 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 
 ## 🎯Cyber  Vision
 
-> ⚡ *I don’t run on vulnerability — I run where on only main goal to capture the system.*
+> ⚡ *Built like a hacker — Focused like a developer.*
 
 ---
 
@@ -112,4 +144,8 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 
 ### 🚀 Let’s build the future attacks with AI 🚀
 
+![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
+
+
 </div>
+
