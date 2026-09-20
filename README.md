@@ -16,7 +16,7 @@
 <h3>Cyber Security Specialist | Ethical Hacker| Security Enthusiast | Problem Solver</h3>
 
 <p>
-I ensure the system by <b>AI-powered security systems</b>, AI tools, and mod apk to solve real-world problems 🚀
+I ensure the system by <b>AI-powered security systems</b>, AI automated tools, and mod apk to solve real-world problems 🚀
 </p>
 
 <br>
@@ -34,12 +34,12 @@ I ensure the system by <b>AI-powered security systems</b>, AI tools, and mod apk
 
 ---
 
-## 🧠 Cyber & Developer Profile
+## 🧠 Profile Summery
 
-- 🤖 An cyber security student and Full stuck Developer
-- 🌱 Constant student in Python, Ethical hacking with AI , and Cyber security
-- 🔭 Building AI-driven attacks, Penitest them in real world & find vulnerability  
-- 💡 Passionate about solving complex real-world problems using AI 
+- 🤖 An cyber security specialist and ai specialist
+- 🌱 Constantly student in Python, Ethical hacking with AI
+- 🔭 Building AI-driven attacks, Penetest them & find vulnerability  
+- 💡 Passionate about solving complex real-world problems using AI
 
 ---
 ## 📌 Present Status
@@ -49,7 +49,7 @@ I ensure the system by <b>AI-powered security systems</b>, AI tools, and mod apk
 
 <td width="68%" valign="top">
 
-• Deep analysing network & OSI model & OS development <br><br>
+• Deep analysing llm and ai  <br><br>
 
 • 🛠️ Trying to make hacking tools & automation scripts for reconnaissance & exploitation <br><br>
 
@@ -57,7 +57,7 @@ I ensure the system by <b>AI-powered security systems</b>, AI tools, and mod apk
 
 • Researching Mobile Application Security & Blockchain/Web3 exploitation <br><br>
 
-• Contributing to open-source security projects & bug bounty programs
+• Contributing to open-source security projects & ethical hacking programs
 
 </td>
 
@@ -72,7 +72,7 @@ I ensure the system by <b>AI-powered security systems</b>, AI tools, and mod apk
 
 ---
 
-## ⚙️ AI & Full Stack Tech Stack
+## ⚙️ AI & Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,bash,js,react,nodejs,php,mysql,aws,git,docker" />
@@ -97,6 +97,7 @@ I ensure the system by <b>AI-powered security systems</b>, AI tools, and mod apk
 | My Portfolio | Modern AI-focused personal website |
 | Calculator | Calculator using html,css & Javascript |
 | Counter | Basic html,css & Javascript |
+| Secure Scan | Web using html,css & Javascript |
 
 ---
 
@@ -108,7 +109,7 @@ I ensure the system by <b>AI-powered security systems</b>, AI tools, and mod apk
 
 - **Name:** Pritom Roy  
 - **From:** India 🇮🇳  
-- **Role:** Cybersecurity Specialist | Ethical Hacker | Security Researcher | Forensics Analyst    
+- **Role:** Cybersecurity Specialist | Ethical Hacker | Penetester |    
 
 **Have to be Specialties:**
 - Web Application Security — OWASP Top 10, API Pentesting 
