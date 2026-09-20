@@ -19,6 +19,8 @@
 I ensure the system by <b>AI-powered security systems</b>, AI automated tools, and mod apk to solve real-world problems 🚀
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Pritom-0607&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+
 <br>
 
 <div align="center">
