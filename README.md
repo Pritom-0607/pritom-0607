@@ -9,10 +9,10 @@ style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px 
 <div align="center">
 
 <h1>👋 Hey, I'm Pritom Roy!</h1>
-<h3>Cyber Security Specialist | Developer | Security Enthusiast | Problem Solver</h3>
+<h3>Cyber Security Specialist | Ethical Hacker| Security Enthusiast | Problem Solver</h3>
 
 <p>
-I build <b>AI-powered security systems</b> by security mechanism, AI tools, and Full Stack Development to solve real-world problems 🚀
+I ensure the system by <b>AI-powered security systems</b>, AI tools, and mod apk to solve real-world problems 🚀
 </p>
 
 <br>
@@ -22,7 +22,7 @@ I build <b>AI-powered security systems</b> by security mechanism, AI tools, and 
 <a href="https://cyber-portfolio-b93b1.web.app" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Explore_My_AI_Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a><br>
-<sub>✨ Live | Projects | Full Stack Systems | Real World Solutions</sub>
+<sub>✨ Live | Projects | Lab Solver | Real World Solutions</sub>
 
 </div>
 
