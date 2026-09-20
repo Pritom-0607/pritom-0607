@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <div align="center" style="width:100%;">
-<img src="https://drive.google.com/file/d/1baJ7z9Jkm5CtuEj7rOpkfqmf-Z_mtPrx/view?usp=sharing" 
+<img src="https://drive.google.com/uc?export=view&id=1v687pMyV1AU_SFwAnmT0FpdFbTy304-8" width="100%">
 style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Pritom  Banner" />
 </div>
 
