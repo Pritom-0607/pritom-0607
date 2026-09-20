@@ -36,6 +36,17 @@ I ensure the system by <b>AI-powered security systems</b>, AI automated tools, a
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=Pritom-0607&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritom-0607&theme=radical" alt="GitHub Streak" />
+
+</div>
+
+---
+
 ## 🧠 Profile Summery
 
 - 🤖 An cyber security specialist and ai specialist
